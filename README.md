@@ -1,2 +1,0 @@
-# LearningNestjs
-Learning BackEnd
